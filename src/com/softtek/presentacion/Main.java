@@ -48,7 +48,7 @@ public class Main {
         //ejercicio4();
 
         //Ejercicio 5
-        ejercicio5();
+        //ejercicio5();
     }
 
     public static void ejercicio2(){
@@ -99,5 +99,9 @@ public class Main {
         System.out.println("SECRETARIO\n"+ secretario.getInforme());
         secretario.setInforme(informeTrimestre2);
         System.out.println(secretario.getInforme());
+    }
+
+    public static void ejercicio6(){
+
     }
 }
